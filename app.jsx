@@ -17,7 +17,7 @@ const FONTS = {
 
 // Windows-only build for now.
 const OS = "Windows";
-const INSTALLER_URL = "downloads/Lambda Setup 1.0.0.exe";
+const INSTALLER_URL = "https://github.com/cattiskatt/lambda/releases/tag/releasse";
 const INSTALLER_SIZE = "94 MB";
 
 // ── Icons ───────────────────────────────────────────────────
